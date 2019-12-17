@@ -1,0 +1,29 @@
+_repo: Le-monde-tel-qu-il-sera_60891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Souvestre, Émile
+    alias: Souvestre, Emile
+    birthdate: 1806
+    deathdate: 1854
+    gutenberg_agent_id: '1351'
+    url: http://www.gutenberg.org/2009/agents/1351
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89mile_Souvestre
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Souvestre
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2019-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60891'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le monde tel qu'il sera
+url: http://www.gutenberg.org/ebooks/60891
